@@ -1,0 +1,7 @@
+body{
+overflow-x: hidden;
+}
+main{
+  display: flex;
+  flex-wrap: wrap;
+}
